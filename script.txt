@@ -1,13 +1,13 @@
 Hi, I'm Ryan Agius and I'm a student at the Faculty of ICT currently following a Masters of Science course in Information and
-Communication Technology, focusing on Signal Processing and Machine Learning. 
+Communication Technology, primarily focusing on Signal Processing and Machine Learning. 
 
 For my dissertation project, I helped develop a vision based anomaly detection system in order to evaluate the
-performance of particle accelerators used in experiments at nuclear research facilities.
+performance of particle accelerators used in the experiments performed at nuclear research facilities.
 
-As part of this project, I had the opportunity to travel to the  European Organizatrion for Nuclear research where I spent the first part of my internship 
+As part of this project, I had the opportunity to travel to the European Organization for Nuclear research where I spent the first part of my internship 
 developing a camera system capable of imaging the accelerator's interior surface. Afterwards, I developed an anomaly detection
-algorithm which was trained on defect free images of the accelerator's surface in order to learn what makes a surface image appear `normal', without defects.
+algorithm which was trained on defect free images of the accelerator's surface in order to learn what makes a surface image appear `normal', that is without defects.
 
-Images captured by the camera systems could then be processed and marked by the algorithm if they contain defects, making it
-a very useful tool for scientists and engineers to quickly find defective regions from the tens of thousands of captured accelerator surface images.
+Images captured by the camera system could then be processed and marked by the algorithm if they contain defects, making it
+a very useful tool for scientists and engineers to quickly find anomalous regions from the tens of thousands of captured accelerator surface images.
 
